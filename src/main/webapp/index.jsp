@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> HOTSTAR YIT</h2>
+      <h2> HOTSTAR YIT-ISE Project</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
